@@ -1,4 +1,4 @@
-<h1 align="center">Hey there🖐 Wassup!!🤘</h1>
+<h1 align="center">Hey there🖐 Wassup!!</h1>
 
 <br>
 <hr>
