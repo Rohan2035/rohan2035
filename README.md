@@ -1,5 +1,8 @@
 <h1 align="center">Hey there🖐 I hope you're doing fine..</h1>
 
+<br>
+<hr>
+
 ## 💫 About Me:
 👨‍💻 I'm a Web developer and a software engineer<br>💻 I'm currently learning Springboot and REACT<br>💬 You can ask me about Java, Python or Django<br>⚡ My hobbies are Coding, Web development and Reading history or geopolitics
 
