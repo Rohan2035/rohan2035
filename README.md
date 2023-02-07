@@ -1,7 +1,7 @@
 <h1 align="center">Hey there🖐 I hope you're doing fine..</h1>
 
 ## 💫 About Me:
-👨‍💻 I'm a Web developer and a software engineer<br>💻I'm currently learning Springboot and REACT<br>💬You can ask me about Java, Python or Django<br>⚡My hobbies are Coding, Web development, Reading history or geopolitics
+👨‍💻 I'm a Web developer and a software engineer<br>💻 I'm currently learning Springboot and REACT<br>💬 You can ask me about Java, Python or Django<br>⚡ My hobbies are Coding, Web development and Reading history or geopolitics
 
 [![](https://visitcount.itsvg.in/api?id=rohan2035&label=Views&color=4&icon=5&pretty=true)](https://visitcount.itsvg.in)
 
