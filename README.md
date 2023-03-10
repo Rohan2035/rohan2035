@@ -3,7 +3,7 @@
 <hr>
 
 ## 💫 About Me:
-👨‍💻 I'm a Web developer and a software engineer<br>💻 I'm currently learning Springboot and REACT<br>💬 You can ask me about Java, Python or Django<br>⚡ My hobbies are Coding, Web development and Reading history/geopolitics<br><a href="https://web-production-7794.up.railway.app/">📓 My Portfolio</a>
+👨‍💻 I'm a Web developer and a software engineer<br>💻 I'm currently learning Springboot and REACT<br>💬 You can ask me about Java, Python or Django<br>⚡ My hobbies are Coding, Web development and Reading history/geopolitics<br><a href="https://web-production-3049.up.railway.app/">📓 My Portfolio</a>
 
 [![](https://visitcount.itsvg.in/api?id=rohan2035&label=Views&color=4&icon=5&pretty=true)](https://visitcount.itsvg.in)
 
