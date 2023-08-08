@@ -4,7 +4,7 @@
 
 # 💫 About Me:
 👨‍💻 I'm a Web developer and a software engineer<br>💻 I'm currently mastering Spring framework<br>💬 You can ask me about Java and Springboot<br>⚡ My hobbies are Coding and Reading history/geopolitics
-
+[![](https://visitcount.itsvg.in/api?id=rohan2035&label=Views&color=4&icon=5&pretty=true)](https://visitcount.itsvg.in)
 <hr>
 
 # 💻 Tech Stack:
@@ -22,7 +22,5 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Rohan2035&theme=gruvbox&no-frame=false&no-bg=false&margin-w=4)
 
-
-# [![](https://visitcount.itsvg.in/api?id=rohan2035&label=Views&color=4&icon=5&pretty=true)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
