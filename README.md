@@ -3,7 +3,7 @@
 <hr>
 
 # 💫 About Me:
-👨‍💻 I'm a Web developer and a software engineer<br>💻 I'm currently mastering Spring framework<br>💬 You can ask me about Java and Springboot<br>⚡ My hobbies are Coding and Reading history/geopolitics
+👨‍💻 I'm a software engineer, working at Cognizant<br>💻 I'm currently mastering Spring framework<br>💬 You can ask me about Java and Springboot<br>⚡ My hobbies are Coding and Reading history/geopolitics
 
 [![](https://visitcount.itsvg.in/api?id=rohan2035&label=Views&color=4&icon=5&pretty=true)](https://visitcount.itsvg.in)
 <hr>
